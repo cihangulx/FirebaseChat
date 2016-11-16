@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <array name="odlar">
+        <item>Genel</item>
+        <item>Yazılım</item>
+        <item>Donanım</item>
+        <item>Elektronik</item>
+
+    </array>
+</resources>

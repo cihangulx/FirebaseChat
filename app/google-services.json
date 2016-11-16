@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "579898089958",
+    "firebase_url": "https://cihan-9dd75.firebaseio.com",
+    "project_id": "cihan-9dd75",
+    "storage_bucket": "cihan-9dd75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579898089958:android:a46d778814ab17e7",
+        "android_client_info": {
+          "package_name": "com.qhackci.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579898089958-i2gme4qlq42tgupcs7jc9d3fttk5tmoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvtwvKnwkyJ-_AQ8QRZ2eqiMkLFpP30QA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579898089958:android:91a53803d51b2f64",
+        "android_client_info": {
+          "package_name": "com.cihangul.firabsechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579898089958-erun33l9hqfctfuoi7378u0jfnosnr19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cihangul.firabsechat",
+            "certificate_hash": "AF08ECF87BA88B365564A1458B1D7409188D6F19"
+          }
+        },
+        {
+          "client_id": "579898089958-i2gme4qlq42tgupcs7jc9d3fttk5tmoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvtwvKnwkyJ-_AQ8QRZ2eqiMkLFpP30QA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579898089958-i2gme4qlq42tgupcs7jc9d3fttk5tmoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579898089958:android:04a66161b0f48c51",
+        "android_client_info": {
+          "package_name": "com.cihangul.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579898089958-fo7bg4gbh2t2bp0h55fgvh99okahqd8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cihangul.firebasechat",
+            "certificate_hash": "AF08ECF87BA88B365564A1458B1D7409188D6F19"
+          }
+        },
+        {
+          "client_id": "579898089958-i2gme4qlq42tgupcs7jc9d3fttk5tmoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvtwvKnwkyJ-_AQ8QRZ2eqiMkLFpP30QA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579898089958-i2gme4qlq42tgupcs7jc9d3fttk5tmoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

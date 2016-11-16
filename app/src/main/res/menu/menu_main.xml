@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/ekle"
+        android:title="Oda aç"
+        app:showAsAction="never"
+        >
+
+    </item>
+
+    <item android:id="@+id/odalar"
+
+        android:title="Odalar"
+        app:showAsAction="never">
+
+    </item>
+    <item android:id="@+id/giris"
+
+        android:title="Giriş Yap"
+        app:showAsAction="never">
+
+    </item>
+    <item android:id="@+id/cikis"
+
+        android:title="Çıkış Yap"
+        app:showAsAction="never">
+
+    </item>
+</menu>
